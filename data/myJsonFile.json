@@ -1,0 +1,79 @@
+﻿[{
+                
+				"head": "Varkey","id": "varkey","job":"1934 - 2000","place": "Chemmalamattom",
+                        "children": [
+						{
+						"head": "Fr. Chacko","id": "Chacko","job":"Priest","place": "Nagaland","children":""},
+						{
+						"head": "Vakkan","id": "vakkan","job":"Farmer","place": "Alakod",
+						"children":[
+									{"head": "George","id": "george","job":"Retd bank manager","place": "Kozhikod",
+									"childern":[
+										{"head": "Arun", "id": "arun","job":"Marine engineer", "place": ""},
+										{"head": "Anju", "id": "anju","job":"", "place": ""},
+										{"head": "Asha", "id": "asha","job":"", "place": ""}	]
+									},
+									{"head": "Jose","id": "jose","job":"Driver","place": "Dubai",
+									"childern":[
+										{"head": "Arun", "id": "arun","job":"Marine engineer", "place": ""},
+										{"head": "Anju", "id": "anju","job":"", "place": ""}]
+									},
+									{"head": "Nirmala","id": "nirmala","job":"Teacher","place": "Alakod"},
+									{"head": "Jessy","id": "jessy","job":"","place": "Wayanad"},
+									{"head": "Salo","id": "salo","job":"","place": "Bangalore"},
+									{"head": "Soy","id": "soy","job":"","place": "Ernakulam"},
+									{"head": "Sabu","id": "sabu","job":"Business","place": "Alakod",
+									"childern":[
+										{"head": "S1", "id": "arun","job":"", "place": ""},
+										{"head": "S2", "id": "anju","job":"", "place": ""},
+										{"head": "S3", "id": "anju","job":"", "place": ""}]
+									}
+								]
+						},
+						
+						{"head": "Pappachan","id": "pappachan","job":"farmer","place": "Adakathod",
+                        "children": [{"head": "Baby","id": "baby","job":"Ex-Excise","place": "Adakathod",
+							"children": [{ "head": "Merin", "id": "merin","job":"", "place": "" }									
+                                ]},
+                            {
+                                "head": "Molly", "id": "molly","job":"Head mistress","place": "Wayanad"
+                            },
+							{
+								"head": "Benny","id": "benny","job":"farmer","place": "Adakathod",
+                                "children": [
+                                    { "head": "Malu", "id": "malu","job":"", "place": "" },
+									{ "head": "Cherukappi", "id": "cehr","job":"", "place": "" }
+                                ]
+							}
+                        ]
+						},
+						{"head": "Pennamma","id": "pennamma","job":"","place": "Chemmalamattom"},
+						{"head": "Kuttyamma","id": "kuttyamma","job":"1945-2008","place": "Wadakancheri"},
+						{"head": "Aniyamma","id": "Aniyamma","job":"","place": "Chengalam"},
+						
+						{"head": "John Bosco","id": "Johny","job":"farmer","place": "Chemmalamattom",
+                        "children": [{"head": "Jojo","id": "jojo","job":"farmer","place": "Australia",
+							"children": [{ "head": "Fiona", "id": "fiona","job":"", "place": "" },
+										{ "head": "Jann", "id": "jann","job":"", "place": "" },
+										{ "head": "Javina", "id": "javina","job":"", "place": "" }										
+                                ]},
+                            {
+                                "head": "Jais", "id": "jais","job":"farmer","place": "Chemmalamattom",
+                                "children": [
+                                    { "head": "Meritta", "id": "meritta","job":"", "place": "" },
+									{ "head": "Jonston", "id": "jonston","job":"", "place": "" },
+                                    { "head": "Elena", "id": "elena","job":"", "place": "" }
+                                ]
+                            },
+							{
+								"head": "Jerlin","id": "jerlin","job":"farmer","place": "Software Engineer, Ernakulam",
+                                "children": [
+                                    { "head": "Juvaan", "id": "juvaan","job":"", "place": "" }
+                                ]
+							}
+                        ]
+						
+						}
+						]
+						
+ }]
